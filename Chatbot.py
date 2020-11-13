@@ -29,7 +29,7 @@ trainer.train([
 'I am a Data Scientist / Data Engineer, currently pursuing masters degree in Information systems at Northeastern University.',
 'where are you from',
 'India',
-'fuck off',
+'How dare you?',
 'Pardon me ',
 'Okay Thanks',
 'No Problem! Have a Good Day!'
